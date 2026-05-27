@@ -40,7 +40,7 @@
 เปิด Terminal หรือ Command Prompt
 นำทางไปยังโฟลเดอร์ที่เก็บไฟล์ และพิมพ์คำสั่งรันโปรแกรม:
 
-python css114_2.py
+python task2.py
 
 ---
 
